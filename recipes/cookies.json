@@ -1,0 +1,477 @@
+{
+  "id": "recipe_001",
+  "title": "Schoko-Cookies",
+  "description": "Leckere Schokoladenkekse zum Selbermachen - einfach und köstlich!",
+  "difficultyLevel": 1,
+  "totalTimeMinutes": 35,
+  "categories": [
+    "Backen",
+    "Süßes",
+    "Kekse"
+  ],
+  "isFree": true,
+  "imageUrl": null,
+  "versions": [
+    {
+      "versionId": "v1_kids",
+      "displayName": "Kinderleicht (12 Cookies)",
+      "mode": "kids",
+      "servings": 12,
+      "ingredients": [
+        {
+          "name": "Butter",
+          "amount": 100,
+          "unit": "g",
+          "preparation": "weich"
+        },
+        {
+          "name": "Zucker",
+          "amount": 80,
+          "unit": "g",
+          "preparation": null
+        },
+        {
+          "name": "Ei",
+          "amount": 1,
+          "unit": "Stück",
+          "preparation": null
+        },
+        {
+          "name": "Mehl",
+          "amount": 150,
+          "unit": "g",
+          "preparation": null
+        },
+        {
+          "name": "Kakao",
+          "amount": 2,
+          "unit": "EL",
+          "preparation": null
+        },
+        {
+          "name": "Backpulver",
+          "amount": 0.5,
+          "unit": "TL",
+          "preparation": null
+        },
+        {
+          "name": "Schokodrops",
+          "amount": 100,
+          "unit": "g",
+          "preparation": null
+        }
+      ],
+      "equipment": [
+        {
+          "key": "bowl",
+          "required": "must",
+          "alternativeText": "Oder eine große Schale"
+        },
+        {
+          "key": "hand_mixer",
+          "required": "optional",
+          "alternativeText": "Schneebesen geht auch"
+        },
+        {
+          "key": "oven",
+          "required": "must",
+          "alternativeText": null
+        },
+        {
+          "key": "baking_tray",
+          "required": "must",
+          "alternativeText": null
+        },
+        {
+          "key": "baking_paper",
+          "required": "must",
+          "alternativeText": "Oder gefettetes Blech"
+        },
+        {
+          "key": "spoon",
+          "required": "must",
+          "alternativeText": null
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Wasche dir gründlich die Hände mit Seife.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Saubere Hände sind beim Backen ganz wichtig!",
+          "audioText": "Wasche dir zuerst gründlich die Hände mit Seife.",
+          "imageAsset": "assets/images/steps/demo_step.png"
+        },
+        {
+          "order": 2,
+          "instruction": "Mache deinen Arbeitsplatz frei. Räume alles zur Seite, was du nicht brauchst.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": null,
+          "audioText": null
+        },
+        {
+          "order": 3,
+          "instruction": "Stelle alle Zutaten bereit: Butter, Zucker, Ei, Mehl, Kakao, Backpulver und Schokodrops.",
+          "durationMinutes": 2,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "So vergisst du nichts und hast alles griffbereit!",
+          "audioText": null
+        },
+        {
+          "order": 4,
+          "instruction": "Hole dir zwei große Schüsseln, einen Esslöffel, einen Teelöffel und ein Handrührgerät oder einen Schneebesen.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": null,
+          "audioText": null
+        },
+        {
+          "order": 5,
+          "instruction": "Heize den Backofen auf 180°C Ober-/Unterhitze vor.",
+          "durationMinutes": 1,
+          "adultCheckRequired": true,
+          "safetyNote": "Lass dir beim Einschalten des Backofens von einem Erwachsenen helfen.",
+          "tip": "Der Ofen braucht etwa 10 Minuten zum Aufheizen.",
+          "audioText": "Schalte den Backofen ein und stelle ihn auf einhundertachtzig Grad ein."
+        },
+        {
+          "order": 6,
+          "instruction": "Nimm ein Backblech und lege es mit Backpapier aus.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Schneide das Backpapier passend zu - dann rutscht nichts!",
+          "audioText": null
+        },
+        {
+          "order": 7,
+          "instruction": "Gib 100 Gramm weiche Butter in die erste große Schüssel.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Wenn du keine Waage hast: Eine halbe Tasse Butter ist ungefähr richtig.",
+          "audioText": null
+        },
+        {
+          "order": 8,
+          "instruction": "Gib 80 Gramm Zucker zur Butter in die Schüssel.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Auch hier gilt: Eine kleine Tasse voll entspricht etwa 80 Gramm.",
+          "audioText": null
+        },
+        {
+          "order": 9,
+          "instruction": "Rühre die Butter und den Zucker mit dem Handrührgerät oder Schneebesen kräftig, bis eine helle, cremige Masse entsteht.",
+          "durationMinutes": 2,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Die Butter sollte Zimmertemperatur haben, dann geht es viel leichter!",
+          "audioText": "Rühre die Butter und den Zucker kräftig, bis alles schön cremig ist.",
+          "timerSeconds": 120
+        },
+        {
+          "order": 10,
+          "instruction": "Schlage das Ei in die Schüssel zur Butter-Zucker-Masse.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Klopfe das Ei vorher an einer Kante an, dann geht es leichter auf.",
+          "audioText": null,
+          "imageAsset": "assets/images/steps/demo_step.png"
+        },
+        {
+          "order": 11,
+          "instruction": "Verrühre das Ei gut mit der Butter-Zucker-Masse.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": null,
+          "audioText": null
+        },
+        {
+          "order": 12,
+          "instruction": "Gib 150 Gramm Mehl in die zweite Schüssel.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": null,
+          "audioText": null
+        },
+        {
+          "order": 13,
+          "instruction": "Gib 2 Esslöffel Kakao zum Mehl in die Schüssel.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Streiche die Esslöffel mit einem Messer glatt - dann hast du die richtige Menge!",
+          "audioText": null
+        },
+        {
+          "order": 14,
+          "instruction": "Gib einen halben Teelöffel Backpulver zu Mehl und Kakao.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": null,
+          "audioText": null
+        },
+        {
+          "order": 15,
+          "instruction": "Vermische Mehl, Kakao und Backpulver gut mit einem Löffel oder Schneebesen.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "So verteilt sich alles schön gleichmäßig!",
+          "audioText": null
+        },
+        {
+          "order": 16,
+          "instruction": "Gib die Mehl-Kakao-Mischung zur Butter-Ei-Masse und rühre alles zu einem glatten Teig.",
+          "durationMinutes": 2,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Rühre nicht zu lange - nur bis keine weißen Mehlstreifen mehr zu sehen sind!",
+          "audioText": null
+        },
+        {
+          "order": 17,
+          "instruction": "Gib die Schokodrops in den Teig und hebe sie vorsichtig mit einem Löffel unter.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Du kannst auch gehackte Schokolade verwenden - das schmeckt genauso lecker!",
+          "audioText": null
+        },
+        {
+          "order": 18,
+          "instruction": "Nimm mit einem Esslöffel etwas Teig und setze kleine Häufchen auf das vorbereitete Backblech. Lasse zwischen den Häufchen viel Platz - etwa zwei Finger breit.",
+          "durationMinutes": 3,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Die Cookies werden beim Backen größer - darum brauchen sie Platz zum Ausbreiten!",
+          "audioText": "Setze mit einem Esslöffel kleine Teighäufchen auf das Blech. Lass genug Abstand zwischen ihnen."
+        },
+        {
+          "order": 19,
+          "instruction": "Schiebe das Backblech vorsichtig in den vorgeheizten Backofen. Backe die Cookies für 12 Minuten.",
+          "durationMinutes": 12,
+          "adultCheckRequired": true,
+          "safetyNote": "Lass dir beim Hineinschieben und Herausnehmen des Backblechs helfen. Der Ofen ist sehr heiß!",
+          "tip": "Stelle dir einen Timer, damit du die Cookies nicht vergisst!",
+          "audioText": "Backe die Cookies für zwölf Minuten im vorgeheizten Ofen.",
+          "timerSeconds": 720
+        },
+        {
+          "order": 20,
+          "instruction": "Hole das Backblech aus dem Ofen und stelle es auf eine hitzebeständige Unterlage.",
+          "durationMinutes": 1,
+          "adultCheckRequired": true,
+          "safetyNote": "Vorsicht! Das Blech ist extrem heiß - lass dir unbedingt helfen!",
+          "tip": null,
+          "audioText": null
+        },
+        {
+          "order": 21,
+          "instruction": "Lass die Cookies auf dem Blech 5 Minuten abkühlen.",
+          "durationMinutes": 5,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Die Cookies sind nach dem Backen noch weich, werden aber beim Abkühlen fest.",
+          "audioText": null,
+          "timerSeconds": 300
+        },
+        {
+          "order": 22,
+          "instruction": "Fertig! Deine Schoko-Cookies sind jetzt bereit zum Genießen. Guten Appetit!",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Am besten schmecken sie noch leicht warm mit einem Glas Milch!",
+          "audioText": "Fertig! Deine Schoko-Cookies sind jetzt bereit. Guten Appetit!"
+        }
+      ]
+    },
+    {
+      "versionId": "v2_pro",
+      "displayName": "Profi (12 Cookies)",
+      "mode": "pro",
+      "servings": 12,
+      "ingredients": [
+        {
+          "name": "Butter",
+          "amount": 100,
+          "unit": "g",
+          "preparation": "weich"
+        },
+        {
+          "name": "Zucker",
+          "amount": 80,
+          "unit": "g",
+          "preparation": null
+        },
+        {
+          "name": "Ei",
+          "amount": 1,
+          "unit": "Stück",
+          "preparation": null
+        },
+        {
+          "name": "Mehl",
+          "amount": 150,
+          "unit": "g",
+          "preparation": null
+        },
+        {
+          "name": "Kakao",
+          "amount": 2,
+          "unit": "EL",
+          "preparation": null
+        },
+        {
+          "name": "Backpulver",
+          "amount": 0.5,
+          "unit": "TL",
+          "preparation": null
+        },
+        {
+          "name": "Schokodrops",
+          "amount": 100,
+          "unit": "g",
+          "preparation": null
+        }
+      ],
+      "equipment": [
+        {
+          "key": "bowl",
+          "required": "must",
+          "alternativeText": null
+        },
+        {
+          "key": "hand_mixer",
+          "required": "optional",
+          "alternativeText": null
+        },
+        {
+          "key": "oven",
+          "required": "must",
+          "alternativeText": null
+        },
+        {
+          "key": "baking_tray",
+          "required": "must",
+          "alternativeText": null
+        },
+        {
+          "key": "baking_paper",
+          "required": "must",
+          "alternativeText": null
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Hände waschen, Arbeitsplatz vorbereiten. Alle Zutaten und Werkzeuge bereitstellen.",
+          "durationMinutes": 2,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Butter sollte weich sein - ggf. 30 Min. vorher aus dem Kühlschrank nehmen.",
+          "audioText": null,
+          "imageAsset": "assets/images/steps/demo_step.png"
+        },
+        {
+          "order": 2,
+          "instruction": "Backofen auf 180°C Ober-/Unterhitze vorheizen.",
+          "durationMinutes": 1,
+          "adultCheckRequired": true,
+          "safetyNote": "Achtung: Der Backofen wird sehr heiß!",
+          "tip": null,
+          "audioText": null
+        },
+        {
+          "order": 3,
+          "instruction": "Backblech mit Backpapier auslegen.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": null,
+          "audioText": null
+        },
+        {
+          "order": 4,
+          "instruction": "Butter (100g) mit Zucker (80g) cremig rühren, bis die Masse hell und luftig ist. Ei unterrühren.",
+          "durationMinutes": 3,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": null,
+          "audioText": null,
+          "timerSeconds": 120
+        },
+        {
+          "order": 5,
+          "instruction": "Mehl (150g), Kakao (2 EL) und Backpulver (0,5 TL) vermengen.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": null,
+          "audioText": null
+        },
+        {
+          "order": 6,
+          "instruction": "Mehlmischung zur Butter-Ei-Masse geben und zu einem glatten Teig verarbeiten. Nicht zu lange rühren.",
+          "durationMinutes": 2,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": null,
+          "audioText": null
+        },
+        {
+          "order": 7,
+          "instruction": "Schokodrops (100g) vorsichtig unter den Teig heben.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": null,
+          "audioText": null
+        },
+        {
+          "order": 8,
+          "instruction": "Mit Esslöffel 12 Teighäufchen auf das Blech setzen (Abstand ca. 5cm). Im vorgeheizten Ofen 12 Minuten backen.",
+          "durationMinutes": 12,
+          "adultCheckRequired": true,
+          "safetyNote": "Vorsicht beim Hineinschieben und Herausnehmen - das Blech wird sehr heiß!",
+          "tip": null,
+          "audioText": null,
+          "timerSeconds": 720
+        },
+        {
+          "order": 9,
+          "instruction": "Blech aus dem Ofen nehmen und auf hitzebeständige Unterlage stellen.",
+          "durationMinutes": 1,
+          "adultCheckRequired": true,
+          "safetyNote": "Achtung: Blech ist extrem heiß!",
+          "tip": null,
+          "audioText": null
+        },
+        {
+          "order": 10,
+          "instruction": "Cookies 5 Minuten auf dem Blech abkühlen lassen, dann servieren.",
+          "durationMinutes": 5,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Noch warm genießen oder komplett auskühlen lassen für knusprigere Konsistenz.",
+          "audioText": null,
+          "timerSeconds": 300,
+          "imageAsset": "assets/images/steps/demo_step.png"
+        }
+      ]
+    }
+  ]
+}
