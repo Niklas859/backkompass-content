@@ -1,0 +1,473 @@
+{
+  "id": "recipe_002",
+  "title": "Vanille-Muffins",
+  "description": "Fluffige Vanille-Muffins die immer gelingen - perfekt für Backanfänger!",
+  "difficultyLevel": 1,
+  "totalTimeMinutes": 40,
+  "categories": [
+    "Backen",
+    "Süßes",
+    "Muffins"
+  ],
+  "isFree": true,
+  "imageUrl": null,
+  "versions": [
+    {
+      "versionId": "v1_kids",
+      "displayName": "Kinderleicht (12 Muffins)",
+      "mode": "kids",
+      "servings": 12,
+      "ingredients": [
+        {
+          "name": "Mehl",
+          "amount": 250,
+          "unit": "g",
+          "preparation": null
+        },
+        {
+          "name": "Zucker",
+          "amount": 120,
+          "unit": "g",
+          "preparation": null
+        },
+        {
+          "name": "Backpulver",
+          "amount": 2,
+          "unit": "TL",
+          "preparation": null
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "Prise",
+          "preparation": null
+        },
+        {
+          "name": "Milch",
+          "amount": 125,
+          "unit": "ml",
+          "preparation": null
+        },
+        {
+          "name": "Öl",
+          "amount": 80,
+          "unit": "ml",
+          "preparation": "neutrales Öl wie Sonnenblumenöl"
+        },
+        {
+          "name": "Eier",
+          "amount": 2,
+          "unit": "Stück",
+          "preparation": null
+        },
+        {
+          "name": "Vanillezucker",
+          "amount": 2,
+          "unit": "Päckchen",
+          "preparation": null
+        }
+      ],
+      "equipment": [
+        {
+          "key": "muffin_tray",
+          "required": "must",
+          "alternativeText": null
+        },
+        {
+          "key": "baking_paper",
+          "required": "optional",
+          "alternativeText": "Papierförmchen sind praktisch aber nicht zwingend nötig"
+        },
+        {
+          "key": "bowl",
+          "required": "must",
+          "alternativeText": "Eine große Schüssel"
+        },
+        {
+          "key": "spoon",
+          "required": "must",
+          "alternativeText": "Zum Verrühren und Verteilen"
+        },
+        {
+          "key": "oven",
+          "required": "must",
+          "alternativeText": null
+        },
+        {
+          "key": "measuring_cups",
+          "required": "optional",
+          "alternativeText": "Hilft beim genauen Abmessen"
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Wasche dir gründlich die Hände mit Seife.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Saubere Hände sind beim Backen das Wichtigste!",
+          "audioText": "Wasche dir zuerst gründlich die Hände mit Seife.",
+          "imageAsset": "assets/images/steps/demo_step.png"
+        },
+        {
+          "order": 2,
+          "instruction": "Stelle alle Zutaten bereit: Mehl, Zucker, Backpulver, Salz, Vanillezucker, Milch, Öl und Eier.",
+          "durationMinutes": 2,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "So hast du alles griffbereit und vergisst nichts!",
+          "audioText": null
+        },
+        {
+          "order": 3,
+          "instruction": "Hole dir zwei große Schüsseln, einen Schneebesen, zwei Löffel und ein Messbecher.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": null,
+          "audioText": null
+        },
+        {
+          "order": 4,
+          "instruction": "Heize den Backofen auf 180°C Ober-/Unterhitze vor.",
+          "durationMinutes": 1,
+          "adultCheckRequired": true,
+          "safetyNote": "Lass dir beim Einschalten des Backofens von einem Erwachsenen helfen.",
+          "tip": "Der Ofen braucht etwa 10 Minuten zum Aufheizen.",
+          "audioText": "Schalte den Backofen ein und stelle ihn auf einhundertachtzig Grad ein."
+        },
+        {
+          "order": 5,
+          "instruction": "Nimm das Muffinblech und lege in jede Mulde ein Papierförmchen. Du brauchst 12 Förmchen.",
+          "durationMinutes": 2,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Wenn du keine Papierförmchen hast, kannst du das Blech auch leicht einfetten.",
+          "audioText": "Lege die Papierförmchen in das Muffinblech."
+        },
+        {
+          "order": 6,
+          "instruction": "Gib 250 Gramm Mehl in die erste große Schüssel.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Wenn du keine Waage hast: Etwa eineinhalb Tassen voll.",
+          "audioText": null
+        },
+        {
+          "order": 7,
+          "instruction": "Gib 120 Gramm Zucker zum Mehl in die Schüssel.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": null,
+          "audioText": null
+        },
+        {
+          "order": 8,
+          "instruction": "Gib 2 Teelöffel Backpulver dazu.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Streiche die Teelöffel mit einem Messer glatt - so hast du die richtige Menge!",
+          "audioText": null,
+          "imageAsset": "assets/images/steps/demo_step.png"
+        },
+        {
+          "order": 9,
+          "instruction": "Gib eine Prise Salz zu den trockenen Zutaten.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Eine Prise ist so viel, wie du zwischen zwei Fingern greifen kannst.",
+          "audioText": null
+        },
+        {
+          "order": 10,
+          "instruction": "Gib 2 Päckchen Vanillezucker dazu.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Vanillezucker gibt den Muffins den leckeren Geschmack!",
+          "audioText": null
+        },
+        {
+          "order": 11,
+          "instruction": "Vermische alle trockenen Zutaten gut mit einem Löffel oder Schneebesen.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Rühre gründlich, damit sich das Backpulver schön verteilt!",
+          "audioText": null
+        },
+        {
+          "order": 12,
+          "instruction": "Nimm die zweite Schüssel und gib 125 Milliliter Milch hinein.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Das ist etwa eine halbe Tasse voll.",
+          "audioText": null
+        },
+        {
+          "order": 13,
+          "instruction": "Gib 80 Milliliter Öl zur Milch.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Sonnenblumenöl oder Rapsöl funktioniert am besten!",
+          "audioText": null
+        },
+        {
+          "order": 14,
+          "instruction": "Schlage 2 Eier vorsichtig in die Schüssel mit Milch und Öl.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Klopfe die Eier vorher an einer Kante an, dann gehen sie leichter auf.",
+          "audioText": null
+        },
+        {
+          "order": 15,
+          "instruction": "Verrühre Milch, Öl und Eier mit einem Schneebesen, bis alles gut vermischt ist.",
+          "durationMinutes": 2,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": null,
+          "audioText": "Verrühre die flüssigen Zutaten gut mit einem Schneebesen."
+        },
+        {
+          "order": 16,
+          "instruction": "Gieße die flüssige Mischung zu den trockenen Zutaten in die große Schüssel.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Gieße langsam und vorsichtig!",
+          "audioText": null
+        },
+        {
+          "order": 17,
+          "instruction": "Verrühre alles vorsichtig mit einem Löffel, bis gerade keine weißen Mehlstreifen mehr zu sehen sind. Nicht zu lange rühren!",
+          "durationMinutes": 2,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Der Teig darf noch etwas klumpig sein - das macht die Muffins schön fluffig! Zu langes Rühren macht sie hart.",
+          "audioText": "Verrühre alles kurz, bis keine Mehlstreifen mehr da sind. Der Teig darf klumpig sein."
+        },
+        {
+          "order": 18,
+          "instruction": "Verteile den Teig mit zwei Löffeln auf die 12 Papierförmchen. Fülle jedes Förmchen etwa zu zwei Dritteln voll.",
+          "durationMinutes": 4,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Nutze einen Löffel zum Nehmen des Teigs und einen zum Abstreifen - dann klappt es besser!",
+          "audioText": "Verteile den Teig auf die Förmchen. Fülle sie etwa zu zwei Dritteln."
+        },
+        {
+          "order": 19,
+          "instruction": "Schiebe das Muffinblech vorsichtig in den vorgeheizten Backofen. Backe die Muffins für 20 Minuten.",
+          "durationMinutes": 20,
+          "adultCheckRequired": true,
+          "safetyNote": "Lass dir beim Einschieben und Herausnehmen helfen. Der Ofen ist sehr heiß!",
+          "tip": "Die Muffins sind fertig, wenn sie goldbraun sind und sich oben fest anfühlen.",
+          "audioText": "Backe die Muffins für zwanzig Minuten im vorgeheizten Ofen.",
+          "timerSeconds": 1200
+        },
+        {
+          "order": 20,
+          "instruction": "Fertig! Lass die Muffins 5 Minuten im Blech abkühlen und genieße sie dann. Guten Appetit!",
+          "durationMinutes": 5,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Die Muffins schmecken warm am allerbesten - mit etwas Butter noch leckerer!",
+          "audioText": "Fertig! Lass die Muffins kurz abkühlen. Guten Appetit!",
+          "timerSeconds": 300
+        }
+      ]
+    },
+    {
+      "versionId": "v2_pro",
+      "displayName": "Profi (12 Muffins)",
+      "mode": "pro",
+      "servings": 12,
+      "ingredients": [
+        {
+          "name": "Mehl",
+          "amount": 250,
+          "unit": "g",
+          "preparation": null
+        },
+        {
+          "name": "Zucker",
+          "amount": 120,
+          "unit": "g",
+          "preparation": null
+        },
+        {
+          "name": "Backpulver",
+          "amount": 2,
+          "unit": "TL",
+          "preparation": null
+        },
+        {
+          "name": "Salz",
+          "amount": 1,
+          "unit": "Prise",
+          "preparation": null
+        },
+        {
+          "name": "Milch",
+          "amount": 125,
+          "unit": "ml",
+          "preparation": null
+        },
+        {
+          "name": "Öl",
+          "amount": 80,
+          "unit": "ml",
+          "preparation": null
+        },
+        {
+          "name": "Eier",
+          "amount": 2,
+          "unit": "Stück",
+          "preparation": null
+        },
+        {
+          "name": "Vanillezucker",
+          "amount": 2,
+          "unit": "Päckchen",
+          "preparation": null
+        }
+      ],
+      "equipment": [
+        {
+          "key": "muffin_tray",
+          "required": "must",
+          "alternativeText": null
+        },
+        {
+          "key": "baking_paper",
+          "required": "optional",
+          "alternativeText": null
+        },
+        {
+          "key": "bowl",
+          "required": "must",
+          "alternativeText": null
+        },
+        {
+          "key": "oven",
+          "required": "must",
+          "alternativeText": null
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "instruction": "Hände waschen, Arbeitsplatz vorbereiten. Alle Zutaten und Werkzeuge bereitstellen.",
+          "durationMinutes": 2,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Alle Zutaten sollten Zimmertemperatur haben für beste Ergebnisse.",
+          "audioText": null,
+          "imageAsset": "assets/images/steps/demo_step.png"
+        },
+        {
+          "order": 2,
+          "instruction": "Backofen auf 180°C Ober-/Unterhitze vorheizen.",
+          "durationMinutes": 1,
+          "adultCheckRequired": true,
+          "safetyNote": "Achtung: Der Backofen wird sehr heiß!",
+          "tip": null,
+          "audioText": null
+        },
+        {
+          "order": 3,
+          "instruction": "Muffinblech mit 12 Papierförmchen auslegen.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": null,
+          "audioText": null
+        },
+        {
+          "order": 4,
+          "instruction": "In großer Schüssel trockene Zutaten vermengen: Mehl (250g), Zucker (120g), Backpulver (2 TL), Salz (1 Prise), Vanillezucker (2 Päckchen).",
+          "durationMinutes": 2,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Backpulver muss gleichmäßig verteilt sein - gut durchmischen!",
+          "audioText": null
+        },
+        {
+          "order": 5,
+          "instruction": "In zweiter Schüssel flüssige Zutaten verquirlen: Milch (125ml), Öl (80ml), Eier (2 Stück).",
+          "durationMinutes": 2,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": null,
+          "audioText": null
+        },
+        {
+          "order": 6,
+          "instruction": "Flüssige Zutaten zu trockenen Zutaten gießen.",
+          "durationMinutes": 1,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": null,
+          "audioText": null
+        },
+        {
+          "order": 7,
+          "instruction": "Alles kurz verrühren bis gerade eben verbunden - Teig darf und soll klumpig bleiben. Nicht zu lange rühren!",
+          "durationMinutes": 2,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Zu langes Rühren aktiviert Gluten im Mehl und macht Muffins zäh. Kurzes Mischen = fluffige Muffins!",
+          "audioText": null
+        },
+        {
+          "order": 8,
+          "instruction": "Teig auf 12 Förmchen verteilen - jedes zu 2/3 füllen. Nicht mehr, sonst laufen sie über!",
+          "durationMinutes": 3,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": null,
+          "audioText": null,
+          "imageAsset": "assets/images/steps/demo_step.png"
+        },
+        {
+          "order": 9,
+          "instruction": "Muffinblech in vorgeheizten Ofen schieben. 20-25 Minuten backen bis goldbraun.",
+          "durationMinutes": 22,
+          "adultCheckRequired": true,
+          "safetyNote": "Vorsicht beim Einschieben und Herausnehmen - der Ofen ist sehr heiß!",
+          "tip": "Stäbchenprobe: Holzstäbchen in Muffin stechen - kommt es sauber raus, sind sie fertig.",
+          "audioText": null,
+          "timerSeconds": 1200
+        },
+        {
+          "order": 10,
+          "instruction": "Muffinblech aus Ofen nehmen und auf hitzebeständige Unterlage stellen.",
+          "durationMinutes": 1,
+          "adultCheckRequired": true,
+          "safetyNote": "Achtung: Blech ist extrem heiß!",
+          "tip": null,
+          "audioText": null
+        },
+        {
+          "order": 11,
+          "instruction": "Muffins 5 Minuten im Blech abkühlen lassen, dann auf Kuchengitter setzen. Warm oder kalt genießen!",
+          "durationMinutes": 5,
+          "adultCheckRequired": false,
+          "safetyNote": null,
+          "tip": "Noch warm mit Butter bestreichen für extra Genuss!",
+          "audioText": null,
+          "timerSeconds": 300
+        }
+      ]
+    }
+  ]
+}
