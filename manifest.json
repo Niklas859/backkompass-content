@@ -1,7 +1,17 @@
-{
-  "version": 1,
-  "recipes": [
-    { "id": "schoko-cookies-001", "path": "recipes/cookies.json" },
-    { "id": "vanille-muffins-001", "path": "recipes/muffins.json" }
-  ]
-}
+   {
+     "version": 1,
+     "recipes": [
+        {
+      "id": "muffins",
+      "path": "recipes/muffins.json",
+      "updatedAt": "2026-04-08T09:30:00Z",
+      "sha256": "ghi789...",
+      "bytes": 16892
+    }
+       {
+         "id": "cookies",
+         "path": "recipes/cookies.json",
+         "updatedAt": "2026-04-08T12:00:00Z"
+       }
+     ]
+   }
