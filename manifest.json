@@ -4,9 +4,7 @@
         {
       "id": "muffins",
       "path": "recipes/muffins.json",
-      "updatedAt": "2026-04-08T09:30:00Z",
-      "sha256": "ghi789...",
-      "bytes": 16892
+      "updatedAt": "2026-04-08T09:30:00Z"
     }
        {
          "id": "cookies",
