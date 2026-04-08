@@ -1,11 +1,6 @@
    {
      "version": 2,
      "recipes": [
-        {
-      "id": "muffins",
-      "path": "recipes/muffins.json",
-      "updatedAt": "2026-04-08T09:30:00Z"
-    }
        {
          "id": "cookies",
          "path": "recipes/cookies.json",
