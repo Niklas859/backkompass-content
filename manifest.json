@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "recipes": [
     { "id": "schoko-cookies-001", "path": "recipes/cookies.json" },
     { "id": "vanille-muffins-001", "path": "recipes/muffins.json" }
