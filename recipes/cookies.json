@@ -37,7 +37,7 @@
           "preparation": null
         },
         {
-          "ingredientId": "mehl"
+          "ingredientId": "mehl",
           "name": "Mehl",
           "amount": 150,
           "unit": "g",
