@@ -1,0 +1,16 @@
+{
+     "version": 1,
+     "ingredients": [
+       {
+         "id": "mehl",
+         "imageUrl": "https://raw.githubusercontent.com/Niklas859/backkompass-content/main/images/ingredients/mehl.png",
+         "imageAsset": "assets/images/ingredients/mehl.png",
+         "updatedAt": "2026-04-10T12:00:00Z"
+       },
+       {
+         "id": "milch",
+         "imageUrl": "https://raw.githubusercontent.com/Niklas859/backkompass-content/main/images/ingredients/milch.png",
+         "updatedAt": "2026-04-10T12:00:00Z"
+       }
+     ]
+   }
