@@ -3,9 +3,9 @@
      "ingredients": [
        {
          "id": "mehl",
-         "imageUrl": "https://raw.githubusercontent.com/Niklas859/backkompass-content/main/images/ingredients/broken.png",
+         "imageUrl": "https://raw.githubusercontent.com/Niklas859/backkompass-content/main/images/ingredients/mehl.png",
          "imageAsset": "assets/images/ingredients/mehl.png",
-         "updatedAt": "2026-04-10T12:00:00Z"
+         "updatedAt": "2026-04-10T20:00:00Z"
        },
        {
          "id": "milch",
