@@ -2,9 +2,9 @@
   "id": "vanille-muffins-001",
   "title": "Vanille-Muffins",
   "description": "Fluffige Vanille-Muffins die immer gelingen - perfekt für Backanfänger!",
-  "imageUrl": "https://raw.githubusercontent.com/Niklas859/backkompass-content/main/images/recipes/muffins/hero.png",
+  "imageUrl": "https://raw.githubusercontent.com/Niklas859/backkompass-content/main/images/muffins/hero.png",
   "heroImageAsset": "assets/images/recipes/muffins/hero.png",
-  "heroImageUpdatedAt": "2026-04-17T21:00:00Z",
+  "heroImageUpdatedAt": "2026-04-17T21:07:00Z",
   "difficultyLevel": 1,
   "totalTimeMinutes": 40,
   "categories": [
