@@ -1,7 +1,7 @@
 {
-  "version": 38,
+  "version": 39,
   "recipes": [
     { "id": "schoko-cookies-001", "path": "recipes/cookies.json", "updatedAt": "2026-04-25T12:53:00Z" },
-    { "id": "vanille-muffins-001", "path": "recipes/muffins.json", "updatedAt": "2026-04-25T12:53:00Z" }
+    { "id": "vanille-muffins-001", "path": "recipes/muffins.json", "updatedAt": "2026-04-25T12:54:00Z" }
   ]
 }
