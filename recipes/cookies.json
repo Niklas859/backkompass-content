@@ -2,9 +2,9 @@
   "id": "schoko-cookies-001",
   "title": "Schoko-Cookies",
   "description": "Leckere Schokoladenkekse zum Selbermachen - einfach und köstlich!",
-  "imageUrl": "https://raw.githubusercontent.com/Niklas859/backkompass-content/main/images/recipes/cookies/hero-schoko-cookie.png",
+  "imageUrl": "https://raw.githubusercontent.com/Niklas859/backkompass-content/main/images/recipes/cookies/hero-schoko-cookies.png",
   "heroImageAsset": "assets/images/recipes/cookies/hero.png",
-  "heroImageUpdatedAt": "2026-04-25T12:51:00Z",
+  "heroImageUpdatedAt": "2026-04-25T12:52:00Z",
   "difficultyLevel": 1,
   "totalTimeMinutes": 35,
   "categories": [
